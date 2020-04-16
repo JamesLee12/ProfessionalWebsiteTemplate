@@ -3,8 +3,7 @@ let resumeData = {
   "name": "Jamie Taylor",
   "role": "Frontend Developer and Data Scientist",
   "linkedinId":"Your LinkedIn Id",
-  "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -17,7 +16,7 @@ let resumeData = {
         "className":"fa fa-github"
       },
     ],
-  "aboutme":"Jamie Taylor loves programming, traveling, and lifting heavy things. He does not love talking about himself in the 3rd person. Currently works at Oden Industries and received his BS at California State University, San Bernardino. For more info, check out his ",
+  "aboutme":"Jamie Taylor loves programming, traveling, and lifting heavy things. He does not love talking about himself in the 3rd person. Currently works at Oden Industries and received his BS at California State University, San Bernardino. For more info, check out the following. ",
   "address":"",
   "website":"",
   "education":[
@@ -42,14 +41,14 @@ let resumeData = {
       "specialization":"Software Developer",
       "MonthOfLeaving":"",
       "YearOfLeaving":"",
-      "Achievements":""
+      "Achievements":"•Took ownership of, developed, and maintained enterprise level software solutions.• Designed databases and system architecture.• Consulted and advised clients on customized software solutions to fit their needs.• Introduced TypeScript to create more modern applications and improve development velocity."
     },
     {
       "CompanyName":"Chino Commercial Bank",
       "specialization":"Software Developer",
       "MonthOfLeaving":"February",
       "YearOfLeaving":"2016",
-      "Achievements":""
+      "Achievements":"•Developed software solutions by consulting with users, studying system flow, data usage, work processes, and investigating problem areas. • Collaborated with bankers and QA to design and produce financial tools of the highest possible quality. • Developed, deployed, and maintained internal websites."
     }
   ],
   "skillsDescription":"",

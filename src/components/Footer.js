@@ -3,7 +3,7 @@ export default class Footer extends Component {
   render(){
     let resumeData = this.props.resumeData;
     return (
-      <footer>
+      <footer id="contact">
         <div className="row">
           <div className="twelve columns">
             <div className="social-links">

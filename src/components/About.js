@@ -15,8 +15,14 @@ export default class About extends Component{
                 resumeData.aboutme
               }
             </p>
+            <ul id="nav" className="nav">
+                <li><a>Download Resume</a>   </li>
+                <li><a href="#contact">Contact</a></li>
+          </ul>
+
+
             {/* <div className="row">
-              <div className="columns contact-details">
+              <div className="c"lumns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
                   <span>{resumeData.name}</span>
