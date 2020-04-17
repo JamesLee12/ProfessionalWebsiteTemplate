@@ -11,7 +11,7 @@ import resumeData from './resumeData';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header resumeData={resumeData}/>
       <About resumeData={resumeData}/>
       <Resume resumeData={resumeData}/>
       {/* <Contact resumeData={resumeData}/> */}
