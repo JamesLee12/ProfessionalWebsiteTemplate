@@ -4,6 +4,7 @@ let resumeData = {
   "role": "Frontend Developer and Data Scientist",
   "linkedinId":"Your LinkedIn Id",
   "roleDescription": "",
+  "resumeURL": "https://drive.google.com/file/d/15VXV_zoiu02fhDIZKnyXiSZymT0SF3do/view?usp=sharing",
   "socialLinks":[
       {
         "name":"linkedin",

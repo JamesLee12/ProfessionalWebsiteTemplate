@@ -16,7 +16,7 @@ export default class About extends Component{
               }
             </p>
             <ul id="nav" className="nav">
-                <li><a>Download Resume</a>   </li>
+                <li><a href={resumeData.resumeURL} target="_blank">Download Resume</a>   </li>
                 <li><a href="#contact">Contact</a></li>
           </ul>
 
