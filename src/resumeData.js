@@ -1,6 +1,7 @@
 let resumeData = {
   "imagebaseurl":"https://rbhatia46.github.io/",
   "name": "Jamie Taylor",
+   "titleDescription":"An ambitious Software Developer tackling the latest tech, and COBOL…",
   "role": "Frontend Developer and Data Scientist",
   "linkedinId":"Your LinkedIn Id",
   "roleDescription": "",
@@ -55,49 +56,9 @@ let resumeData = {
   "skillsDescription":"",
   "skills":[
     {
-      "skillname":"Javascript",
-      "skillLevel": "93%"
+      "skillname":"",
+      "skillLevel": ""
     },
-    {
-      "skillname":"Typescript",
-      "skillLevel": "70%"
-    },
-    {
-      "skillname":"C#",
-      "skillLevel": "89%"
-    },
-    {
-      "skillname":"Visual Basic",
-      "skillLevel": "80%"
-    },
-    {
-      "skillname":"SQL",
-      "skillLevel": "83%"
-    },
-    {
-      "skillname":"Angular",
-      "skillLevel": "85%"
-    },
-    {
-      "skillname":"ReactJS",
-      "skillLevel": "85%"
-    },
-    {
-      "skillname":"NODEJS",
-      "skillLevel": "86%"
-    },
-    {
-      "skillname":".NET",
-      "skillLevel": "87%"
-    },
-    {
-      "skillname":"Web API",
-      "skillLevel": "87%"
-    },
-    {
-      "skillname":"Entity Framework",
-      "skillLevel": "80%"
-    }
   ],
 }
 
