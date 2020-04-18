@@ -17,7 +17,7 @@ let resumeData = {
         "className":"fa fa-github"
       },
     ],
-  "aboutme":"Jamie Taylor loves programming, traveling, and lifting heavy things. He does not love talking about himself in the 3rd person. Currently works at Oden Industries and received his BS at California State University, San Bernardino. For more info, check out the following. ",
+  "aboutme":"I’m a Software Developer that loves tackling challenges be it programming, video games, traveling or lifting heavy things.  I currently work at Oden Industries and received my BS in Computer Science from California State University, San Bernardino.  For more info, check out the following.",
   "address":"",
   "website":"",
   "education":[
